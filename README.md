@@ -1,7 +1,7 @@
 ```markdown
 # 1-Year Cybersecurity Training Program
 
-This repository contains the **1-year comprehensive cybersecurity training program** designed to take beginners to a professional level in the field of cybersecurity. The program covers a broad range of topics, starting from foundational IT concepts, progressing into core cybersecurity principles, and ultimately diving into advanced domains and hands-on labs.
+This repository contains the 1-year comprehensive cybersecurity training program designed to take beginners to a professional level in the field of cybersecurity. The program covers a broad range of topics, starting from foundational IT concepts, progressing into core cybersecurity principles, and ultimately diving into advanced domains and hands-on labs.
 
 It’s structured to provide:
 
