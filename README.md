@@ -1,12 +1,3 @@
-# Cybersecurity_Training_Schedule_2025
-A 1-year comprehensive cybersecurity training program covering IT fundamentals, core cybersecurity concepts, advanced topics, and hands-on labs. Includes penetration testing, SOC practices, certification prep (CompTIA Security+, CEH), and internship experience. Ideal for beginners aiming for a career in cybersecurity.
-
-To create and edit a markdown file using ChatGPT canvas, you'll need to [log in to ChatGPT](https://chat.openai.com). Once logged in, you can use the canvas feature to generate and work on markdown files interactively.
-
-However, I can provide the markdown content right here for you to copy and save as a `.md` file:
-
----
-
 ```markdown
 
 Here’s the markdown for the suggested GitHub repository description:
